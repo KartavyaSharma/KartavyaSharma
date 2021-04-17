@@ -7,17 +7,18 @@ I am Kartavya Sharma, a first year Electrical Engineering and Computer Science s
 - 👯 I’m open to collaborate on small to medium sized full-stack web development projects.
 - 📫 You can reach me through this [contact form](https://kartavyas.com/contact) or shoot me an email [here](mailto:kartavya@berkeley.edu)!
 - 😄 Pronouns: he/him/his
-<!--
-**KartavyaSharma/KartavyaSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**: Python | C++ | Java | JavaScript
+**Frontend**: React | Tailwind | HTML | CSS | Bootstrap | Tkinter
+**Backend**: Node.js | GraphQL | Django | Flask | REST
+**Devops**: Git | Postman | Jupyter
+**Other**: Figma | GIMP | Indesign | Adobe XD | Affinity Photo
+
+###### Links
+
+- [Personal Website](https://kartavyas.com) - an aggregation of all my projects
+- [Blog](https://kartavyas.com/blog) - my musings and thoughts on the current state of tech
+- [Linkedin](https://www.linkedin.com/in/kartavya-sharma/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8qmmRxejRvitIR7lNvObCw%3D%3D) - previous experience and education
+- [Twitter](https://twitter.com/floatyvariable)
