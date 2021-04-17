@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Kartavya Sharma, a first year Electrical Engineering and Computer Science student at UC Berkeley.
 
@@ -8,7 +8,7 @@ I am Kartavya Sharma, a first year Electrical Engineering and Computer Science s
 - 📫 You can reach me through this [contact form](https://kartavyas.com/contact) or shoot me an email [here](mailto:kartavya@berkeley.edu)!
 - 😄 Pronouns: he/him/his
 
-###### Skills
+#### Skills
 
 - **Languages**: Python | C++ | Java | JavaScript
 - **Frontend**: React | Tailwind | HTML | CSS | Bootstrap | Tkinter
@@ -16,7 +16,7 @@ I am Kartavya Sharma, a first year Electrical Engineering and Computer Science s
 - **Devops**: Git | Postman | Jupyter
 - **Other**: Figma | GIMP | Indesign | Adobe XD | Affinity Photo
 
-###### Links
+#### Links
 
 - [Personal Website](https://kartavyas.com) - an aggregation of all my projects
 - [Blog](https://kartavyas.com/blog) - my musings and thoughts on the current state of tech
