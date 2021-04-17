@@ -10,15 +10,15 @@ I am Kartavya Sharma, a first year Electrical Engineering and Computer Science s
 
 ###### Skills
 
-**Languages**: Python | C++ | Java | JavaScript
-**Frontend**: React | Tailwind | HTML | CSS | Bootstrap | Tkinter
-**Backend**: Node.js | GraphQL | Django | Flask | REST
-**Devops**: Git | Postman | Jupyter
-**Other**: Figma | GIMP | Indesign | Adobe XD | Affinity Photo
+- **Languages**: Python | C++ | Java | JavaScript
+- **Frontend**: React | Tailwind | HTML | CSS | Bootstrap | Tkinter
+- **Backend**: Node.js | GraphQL | Django | Flask | REST
+- **Devops**: Git | Postman | Jupyter
+- **Other**: Figma | GIMP | Indesign | Adobe XD | Affinity Photo
 
 ###### Links
 
 - [Personal Website](https://kartavyas.com) - an aggregation of all my projects
 - [Blog](https://kartavyas.com/blog) - my musings and thoughts on the current state of tech
 - [Linkedin](https://www.linkedin.com/in/kartavya-sharma/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8qmmRxejRvitIR7lNvObCw%3D%3D) - previous experience and education
-- [Twitter](https://twitter.com/floatyvariable)
+- [Twitter](https://twitter.com/floatyvariable) - a more brief version of my blog
