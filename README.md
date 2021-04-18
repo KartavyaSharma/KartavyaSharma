@@ -20,5 +20,5 @@ I am Kartavya Sharma, a first year Electrical Engineering and Computer Science s
 
 - [Personal Website](https://kartavyas.com) (a work in progress) - an aggregation of all my projects
 - [Blog](https://kartavyas.com/blog) - my thoughts on the current state of tech
-- [Linkedin](https://www.linkedin.com/in/kartavya-sharma/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8qmmRxejRvitIR7lNvObCw%3D%3D) - Professional experience and education
+- [Linkedin](https://www.linkedin.com/in/kartavya-sharma/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8qmmRxejRvitIR7lNvObCw%3D%3D) - my professional experience and education
 - [Twitter](https://twitter.com/floatyvariable) - a more brief version of my blog
