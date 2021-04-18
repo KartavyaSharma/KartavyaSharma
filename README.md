@@ -10,10 +10,10 @@ I am Kartavya Sharma, a first year Electrical Engineering and Computer Science s
 
 **Skills**
 
-* Languages - Python | C++ | Java | JavaScript
+* Languages - Python | C++ | Java | JavaScript | Bash
 * Frontend - React | Tailwind | HTML | CSS | Bootstrap | Tkinter
 * Backend - Node.js | GraphQL | Django | Flask | REST
-* Devops - Git | Postman | Jupyter
+* Devops - Git | Postman | Jupyter | WSL | FTP Clients
 * Other - Figma | GIMP | Indesign | Adobe XD | Affinity Photo
 
 **Links**
