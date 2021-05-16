@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kartavya Sharma, a first year Electrical Engineering and Computer Science student at UC Berkeley.
+I am Kartavya Sharma, an incoming first year Electrical Engineering and Computer Science student at UC Berkeley.
 
 - 🔭 I’m currently working on building my personal blog/website.
 - 🌱 I’ve been involved with learning new Web Development technologies. More specifically, JAMstack with Gatsby, GraphQL, and Forestry.
