@@ -11,8 +11,8 @@ I am Kartavya Sharma, an incoming first year Electrical Engineering and Computer
 **Skills**
 
 * Languages - Python | C++ | Java | JavaScript | Bash | Octave
-* Frontend - React | Tailwind | HTML | CSS | Bootstrap | Tkinter | Formik
-* Backend - Node.js | GraphQL | Django | Flask | REST
+* Frontend - React | Gatsby | Next.js | Tailwind | HTML | CSS | Bootstrap | Tkinter | Formik
+* Backend - Node.js | GraphQL | Prisma | Django | Flask | REST
 * Devops - Git | Postman | Jupyter | WSL | FTP Clients
 * Other - Figma | GIMP | Indesign | Adobe XD | Affinity Photo
 
