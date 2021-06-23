@@ -12,7 +12,7 @@ I am Kartavya Sharma, an incoming first year Electrical Engineering and Computer
 
 * Languages - Python | C++ | Java | JavaScript | Bash | Octave
 * Frontend - React | Gatsby | Next.js | Tailwind | HTML | CSS | Bootstrap | Tkinter
-* Backend - Node.js | GraphQL | Prisma | PostgreSQL | Django | Flask | REST
+* Backend - Node | Express | GraphQL | Prisma | PostgreSQL | Django | Flask | REST
 * Devops - Git | Postman | Jupyter | WSL | FTP Clients
 * Other - Figma | GIMP | Indesign | Adobe XD | Affinity Photo
 
