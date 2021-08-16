@@ -19,6 +19,6 @@ I am Kartavya Sharma, an incoming first year Electrical Engineering and Computer
 **Links**
 
 - [Personal Website](https://kartavyas.com) - An aggregation of all my projects, blog posts, and work experience
-- [Blog](https://kartavyas.com/blog) - A writing platform for my thoughts and guides
+- [Blog](https://kartavyas.com/blog) - A platform for writing thoughts and guides
 - [Linkedin](https://www.linkedin.com/in/kartavya-sharma/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8qmmRxejRvitIR7lNvObCw%3D%3D) - my professional experience and education
 - [Twitter](https://twitter.com/floatyvariable) - My take on more general things in life
