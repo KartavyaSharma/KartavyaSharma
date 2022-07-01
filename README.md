@@ -4,7 +4,6 @@ I am Kartavya Sharma, an rising second year Electrical Engineering and Computer 
 
 - 👯 I’m open to collaborate on small to medium sized full-stack web development projects.
 - 📫 You can reach me through this [contact form](https://kartavyas.com/contact) or shoot me an email [here](mailto:kartavya@berkeley.edu)!
-- 😄 Pronouns: he/him/his
 
 **Skills**
 
