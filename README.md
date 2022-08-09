@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kartavya Sharma, an rising third year Electrical Engineering and Computer Science (EECS) student at UC Berkeley.
+I am Kartavya Sharma, an rising junior at UC Berkeley majoring in EECS.
 
 - 👯 I’m open to collaborate on small to medium sized full-stack web development projects.
 - 📫 You can reach me through this [contact form](https://kartavyas.com/contact) or shoot me an email [here](mailto:kartavya@berkeley.edu)!
