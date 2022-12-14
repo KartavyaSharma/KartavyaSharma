@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I am Kartavya Sharma, an rising junior at UC Berkeley majoring in EECS.
+I am Kurt, I'm an undergraduate at UC Berkeley majoring in EECS.
